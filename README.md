@@ -28,7 +28,8 @@ Strong expertise in AWS cloud technologies and automated testing frameworks, wit
 
 - 🌐 Website: [My Portfolio](http://your-portfolio-link.com)
 - 📫 Contact: sushmitha.prathap04@gmail.com
-- 📍 Location: Boston, MA
+- 💼 LinkedIn: [Sushmitha Prathap](http://linkedin.com/in/sushmitha-prathap)
+<!-- - 📍 Location: Boston, MA -->
 
 ---
 
@@ -80,7 +81,7 @@ Strong expertise in AWS cloud technologies and automated testing frameworks, wit
 
 ## 📈 GitHub Stats
 
-[comment]: ![Sushmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushmithaPrathap&show_icons=true&theme=radical)
+<!--![Sushmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushmithaPrathap&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushmithaPrathap&layout=compact&theme=radical)
 
@@ -92,6 +93,7 @@ Strong expertise in AWS cloud technologies and automated testing frameworks, wit
 - AWS Developer Associate Certification
 - Integration Testing
 - SCRUM Master
+- Distributed Systems
 
 ---
 

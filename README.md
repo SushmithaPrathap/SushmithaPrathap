@@ -37,7 +37,7 @@ I am a recent graduate from Northeastern University with a Master of Science in 
 - JavaScript (ES6+), TypeScript, Python, Java
 
 **Front-End:**
-- React, Redux, HTML5, CSS3, Tailwind CSS
+- React, Redux, React Native, HTML5, CSS3, Tailwind CSS
 
 **Back-End:**
 - Node.js, Express.js, Spring Boot, Django
@@ -58,11 +58,11 @@ I am a recent graduate from Northeastern University with a Master of Science in 
 
 ## 🛠️ Projects
 
-### [Project 1: Highest Good Network Software](http://github-link-to-project-1)
+### [Project 1: Assignment Submission App](https://github.com/SushmithaPrathap/webapp)
 - Description: Contributing to the development of a comprehensive software suite for managing and tracking non-profit organization projects.
 - Technologies: React, Node.js, MongoDB
 
-### [Project 2: Production-Ready Microservices](http://github-link-to-project-2)
+### [Project 2: Production-Ready Microservices]()
 - Description: Building and documenting microservices with Java, Spring Boot, Docker, and Kubernetes, focusing on cloud-native apps with a 15-factor methodology.
 - Technologies: Java, Spring Boot, Docker, Kubernetes, Prometheus, Grafana
 
@@ -70,11 +70,16 @@ I am a recent graduate from Northeastern University with a Master of Science in 
 - Description: Developing a no/low-code platform using TypeScript, React, Tailwind, Postgres, DynamoDB, and Pulumi for AWS deployments.
 - Technologies: TypeScript, React, Tailwind, Postgres, DynamoDB, Pulumi, AWS
 
+### [Project 4: Menu Masters](https://github.com/SushmithaPrathap/MenuMasters)
+- Description: Contributing to the development of a comprehensive software suite for managing and tracking non-profit organization projects.
+- Technologies: React, Node.js, MongoDB
+
+
 ---
 
 ## 📈 GitHub Stats
 
-![Sushmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushmithaPrathap&show_icons=true&theme=radical)
+[//]: <> ![Sushmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushmithaPrathap&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushmithaPrathap&layout=compact&theme=radical)
 
@@ -94,9 +99,8 @@ I am a recent graduate from Northeastern University with a Master of Science in 
 - **Full-Stack Developer** at One Community Global
   - Responsibilities: Fixing errors, formatting tasks, creating Pull Requests, reading documentation on integration tests, resolving pre-commit errors, submitting PRs, watching videos on integration testing, addressing PR comments, making respective changes, and working on weekly summaries.
 
-- **DevOps Engineer** at [Company Name]
-  - Responsibilities: Building production-ready microservices, handling Docker images and containers, cloud-native apps with a 15-factor methodology, configuration management, service discovery, handling cross-cutting concerns, building resilient microservices, observability, securing microservices, event-driven microservices, Kubernetes orchestration, deploying microservices with Helm.
-
+- **Software Engineer** at Murmuration Solutions Private Limited
+  - Responsibilities: Building production-ready web and mobile applications using React and React Native, deploying secure payment processing, optimizing state management with Redux and React Query, integrating AWS Lambda for efficient computational tasks, implementing CI/CD pipelines with Jenkins to enhance development speed.
 ---
 
 ## 📫 How to Reach Me

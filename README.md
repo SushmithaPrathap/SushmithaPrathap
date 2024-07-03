@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sushmitha Prathap
 
-Aspiring Full-Stack Engineer | Cloud Enthusiast | Open Source Contributor
+Aspiring Full-Stack Engineer | Cloud Enthusiast | AWS Certified
 
 ---
 
 ## 🚀 About Me
 
-I am a recent graduate from Northeastern University with a Master of Science in Information Systems. With 3 years of experience in software development, I specialize in the MERN stack and have a keen interest in cloud technologies. I love exploring new technologies and contributing to open-source projects.
+I am a recent graduate from Northeastern University with a Master of Science in Information Systems. With 3 years of experience in software development, I specialize in the MERN stack and have a keen interest in cloud technologies. 
+Strong expertise in AWS cloud technologies and automated testing frameworks, with practical knowledge in distributed systems. I love exploring new technologies and contributing to open-source projects.
 
 - 🌐 Website: [My Portfolio](http://your-portfolio-link.com)
 - 📫 Contact: sushmitha.prathap04@gmail.com
@@ -49,7 +50,7 @@ I am a recent graduate from Northeastern University with a Master of Science in 
 - Docker, Kubernetes, Jenkins, Ansible, Terraform
 
 **Cloud Platforms:**
-- AWS (Certified Cloud Practitioner), Azure
+- AWS, Azure, GCP
 
 **Others:**
 - Git, GitHub, Agile/Scrum, CI/CD
@@ -79,7 +80,7 @@ I am a recent graduate from Northeastern University with a Master of Science in 
 
 ## 📈 GitHub Stats
 
-[//]: <> ![Sushmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushmithaPrathap&show_icons=true&theme=radical)
+[comment]: ![Sushmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushmithaPrathap&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushmithaPrathap&layout=compact&theme=radical)
 
